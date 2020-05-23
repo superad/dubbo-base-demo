@@ -1,0 +1,2 @@
+ipFilter=com.mengma.dubbo.spi.TransportIPFilter
+tpMonitor=com.mengma.dubbo.spi.TPMonitorFilter
